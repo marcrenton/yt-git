@@ -1,0 +1,155 @@
+commit 4e6c04ae364cf4ac10dbb77e4bac28ef12fbf475
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 20:13:01 2023 -0400
+
+    Agregando dos parrafos
+
+commit 4c9508f94b2f5b902f4fb6be044439191e98aaa8
+Merge: 1897f99 5b20e1e
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 20:10:15 2023 -0400
+
+    Resolviendo cnonflicto ene staciones de año
+
+commit 1897f99f5844de16583bf6341963daab17608c42
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 18:30:32 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 5b20e1e6fc6c96c36810de2dd440b6af3a79ffeb
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 18:30:32 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 88bab6fd8db1719a104b34284010717510dd9bff
+Merge: 0ad2890 ecf0713
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 17:54:25 2023 -0400
+
+    resloviendo conflicto merge main html en el docuemtno index.html
+
+commit ecf0713838b4c04a2ca7eaef74ce38d1503dcdaf
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 17:23:48 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 0ad2890cd5d0608f4161257a4e0d322bbd45f71c
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 17:20:03 2023 -0400
+
+    Agregando style.css al index.html
+
+commit ce1ddb942931bb7e29d2f29b0ea64ddd25358fcc
+Merge: 6f8d6c8 6e0faf9
+Author: marc <marc277r@gmail.com>
+Date:   Sun Nov 12 23:24:42 2023 -0400
+
+    Merge branch 'js'
+
+commit 6f8d6c8f776192e19e2eeeb9b5ee3672fe42ae05
+Merge: 285f792 b9bfd90
+Author: marc <marc277r@gmail.com>
+Date:   Sun Nov 12 23:23:30 2023 -0400
+
+    Merge branch 'css'
+
+commit 6e0faf9bc6bbdb15f32226d46a6ef94c3bf22573
+Merge: b9bfd90 6968b40
+Author: marc <marc277r@gmail.com>
+Date:   Sun Nov 12 17:02:56 2023 -0400
+
+    Merge branch 'js' of https://github.com/marcrenton/yt-git into js
+
+commit 285f7924359723cd043b6971eeec4cdefe0e67ad
+Merge: 93ee630 58e04cc
+Author: marc <marc277r@gmail.com>
+Date:   Sun Nov 12 16:57:08 2023 -0400
+
+    Merge branch 'html' of https://github.com/marcrenton/yt-git into html
+
+commit b9bfd9030b9e9ff9c37bfbeeb6fab748e5a7e7f5
+Merge: 93ee630 d89233e
+Author: marc <marc277r@gmail.com>
+Date:   Sun Nov 12 16:04:04 2023 -0400
+
+    Merge branch 'css' of https://github.com/marcrenton/yt-git into css
+
+commit 93ee630c959b6c2abba1579e3ac4fee24a60d43d
+Author: marc <marc277r@gmail.com>
+Date:   Sun Nov 12 13:06:08 2023 -0400
+
+    Agregado tresss
+
+commit 6968b407408d8bc22b565c431d06e93e941db7b7
+Author: marcrenton <marc277r@gmail.com>
+Date:   Sat Nov 11 17:42:29 2023 -0400
+
+    Creando index.js
+
+commit d89233e061d4e222ca3d2fc0c3e0609c665ea231
+Author: marcrenton <marc277r@gmail.com>
+Date:   Sat Nov 11 17:08:55 2023 -0400
+
+    Creando style css
+
+commit 58e04cca636c4363e41b64f250d1b83b62bb69d0
+Author: marcrenton <marc277r@gmail.com>
+Date:   Sat Nov 11 16:57:41 2023 -0400
+
+    Creando archivo index html
+
+commit 3d04c26ed91e994e4c62f4048bd116bb8fec3bdb
+Author: marcrenton <marc277r@gmail.com>
+Date:   Sat Nov 11 14:31:46 2023 -0400
+
+    Ignorando archivos .exe
+
+commit 32da01a84646caf02d3fb18bef42a1606f63a0ea
+Author: marcrenton <marc277r@gmail.com>
+Date:   Sat Nov 11 12:52:51 2023 -0400
+
+    Agregado dos a readme
+
+commit 99ff8992b93323662a3b4055e79eeb55c5d2439a
+Author: marcrenton <150383265+marcrenton@users.noreply.github.com>
+Date:   Thu Nov 9 22:34:43 2023 -0400
+
+    creando licencia del repositorio
+
+commit 278c006e9ab4509a31a721aa49ea8d67af1f1c88
+Author: marcrenton <marc277r@gmail.com>
+Date:   Thu Nov 9 21:51:47 2023 -0400
+
+    Agregando mas contenido al readme
+
+commit 01bee389aebffcc55aa0c23b5a68075e13086c00
+Author: marco <marc277r@gmail.com>
+Date:   Thu Nov 9 21:03:00 2023 -0400
+
+    Agregando contenido al README
+
+commit d979015fbcd898a4aee8f5ffdd7d1e10f5a1553d
+Author: marco <marc277r@gmail.com>
+Date:   Thu Nov 9 20:28:40 2023 -0400
+
+    Agregado de primer contenido a README
+
+commit adeefaa5d5b09f4673775cb0f0a62e85fee33950
+Author: marco <marc277r@gmail.com>
+Date:   Thu Nov 9 20:22:59 2023 -0400
+
+    Agregando contenido inicial al README
+    pwd
+    pwd
+    clear
+    
+    git commit
+
+commit 444ae9473e4a900a1fa855adb026c221e39177df
+Author: marco <marc277r@gmail.com>
+Date:   Thu Nov 9 20:07:38 2023 -0400
+
+    Primer commit
