@@ -1,3 +1,49 @@
+commit 5a34e8089a6ac6ad08836ef36f1280f3c6cfbd43
+Merge: de47dd7 9e36c01
+Author: marcrenton <150383265+marcrenton@users.noreply.github.com>
+Date:   Wed Nov 15 20:47:44 2023 -0400
+
+    Merge pull request #1 from teddy5454/readme-teddy
+    
+    Readme teddy
+
+commit 9e36c0182a27843108b719510ff44ec676bfd528
+Author: Teddy <5454alvfck@gmail.com>
+Date:   Wed Nov 15 20:25:58 2023 -0400
+
+    Haciendo mejoras al ready del repositorio
+
+commit 57f69dab8a12a1a3ce29c44e8e01d25b661ecd3a
+Author: Teddy <5454alvfck@gmail.com>
+Date:   Wed Nov 15 18:30:12 2023 -0400
+
+    Cambio de prueba de la segunda cuenta de git teddy
+
+commit de47dd706df4964545d7b87eea4328ae5d28c3f7
+Author: marcrenton <marc277r@gmail.com>
+Date:   Wed Nov 15 00:47:47 2023 -0400
+
+    Agregando imagen de flujo git y mejorando el index.html
+
+commit 76d27c403a4357a142d22f93d21f51461ea63f3e
+Merge: 105a748 b6001ab
+Author: marcrenton <marc277r@gmail.com>
+Date:   Tue Nov 14 14:12:50 2023 -0400
+
+    Merge branch 'main' of https://github.com/marcrenton/yt-git
+
+commit 105a748145f225809bd946c8f4dfe3852830c268
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 22:12:30 2023 -0400
+
+    Respaldando loggs del epositrio
+
+commit b6001abfcc35647cd5a281f79af8f28e937608d7
+Author: marc <marc277r@gmail.com>
+Date:   Mon Nov 13 22:12:30 2023 -0400
+
+    Respaldando loggs del epositrio
+
 commit 4e6c04ae364cf4ac10dbb77e4bac28ef12fbf475
 Author: marc <marc277r@gmail.com>
 Date:   Mon Nov 13 20:13:01 2023 -0400
